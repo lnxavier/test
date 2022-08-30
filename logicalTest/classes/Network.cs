@@ -40,7 +40,7 @@
             }
         }
 
-        //method responsible for verifying the connections between the nodes
+        //Method responsible for verifying the connections between the nodes
         public bool query(int firstNode, int secondNode)
         {
             if (!node[firstNode - 1].getConnections().Any())
@@ -71,7 +71,7 @@
             return IndirectConnection(firstNode, secondNode, checkedNodesList);
         }
 
-        //method responsible for checking indirect connections
+        //Method responsible for checking indirect connections
         private bool IndirectConnection(int firstNode, int secondNode, List<int> checkedItems)
         {
             foreach (int connection in node[firstNode - 1].getConnections())

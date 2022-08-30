@@ -1,0 +1,15 @@
+C:\Users\Lucas\source\repos\logicalTeste\logicalTeste\bin\Debug\net6.0\logicalTeste.exe
+C:\Users\Lucas\source\repos\logicalTeste\logicalTeste\bin\Debug\net6.0\logicalTeste.deps.json
+C:\Users\Lucas\source\repos\logicalTeste\logicalTeste\bin\Debug\net6.0\logicalTeste.runtimeconfig.json
+C:\Users\Lucas\source\repos\logicalTeste\logicalTeste\bin\Debug\net6.0\logicalTeste.dll
+C:\Users\Lucas\source\repos\logicalTeste\logicalTeste\bin\Debug\net6.0\logicalTeste.pdb
+C:\Users\Lucas\source\repos\logicalTeste\logicalTeste\obj\Debug\net6.0\logicalTeste.csproj.AssemblyReference.cache
+C:\Users\Lucas\source\repos\logicalTeste\logicalTeste\obj\Debug\net6.0\logicalTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\source\repos\logicalTeste\logicalTeste\obj\Debug\net6.0\logicalTeste.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\logicalTeste\logicalTeste\obj\Debug\net6.0\logicalTeste.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\logicalTeste\logicalTeste\obj\Debug\net6.0\logicalTeste.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\logicalTeste\logicalTeste\obj\Debug\net6.0\logicalTeste.dll
+C:\Users\Lucas\source\repos\logicalTeste\logicalTeste\obj\Debug\net6.0\refint\logicalTeste.dll
+C:\Users\Lucas\source\repos\logicalTeste\logicalTeste\obj\Debug\net6.0\logicalTeste.pdb
+C:\Users\Lucas\source\repos\logicalTeste\logicalTeste\obj\Debug\net6.0\logicalTeste.genruntimeconfig.cache
+C:\Users\Lucas\source\repos\logicalTeste\logicalTeste\obj\Debug\net6.0\ref\logicalTeste.dll
